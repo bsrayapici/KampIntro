@@ -14,6 +14,8 @@ namespace DegerVeReferansTıpler
             sayi1 = sayi2;
             sayi2 = 65;
 
+
+
         }
     }
 }
