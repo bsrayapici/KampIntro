@@ -13,8 +13,6 @@ namespace Metotlar
             Console.WriteLine("sepete eklendi : " + urun.Adi);
         }
 
-
-
         public void Ekle2(string urunAdi, string aciklama, double fiyat) 
         {
             Console.WriteLine("Tebrikler sepete eklendi : " + urunAdi );
